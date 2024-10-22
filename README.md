@@ -1,6 +1,6 @@
 # Customer-Behavior-Analysis
 # Objective
-Segmentation of customers who use credit cardsuse on the basis of different attributes such as - demographics data, transaction history, transaction behavior (Recency, Frequency, Monetary)
+Segmentation of customers who use Credit Cards on the basis of different attributes such as - demographics data, transaction history, transaction behavior (Recency, Frequency, Monetary)
 
 Rapidly identify and evaluate customer behavior signals to optimize marketing activities, etc
 
